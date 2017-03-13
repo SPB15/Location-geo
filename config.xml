@@ -17,6 +17,6 @@
         Hardeep Shoker 
     </author>
 	
-	<gap:plugin name="org.apache.cordova.geolocation" version="2.4.2" />
+	<gap:plugin name="cordova-plugin-geolocation" />
 
 </widget>
